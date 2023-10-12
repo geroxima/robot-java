@@ -17,7 +17,7 @@ Siga estos pasos para configurar Java 1.8 y ejecutar un robot en Visual Studio C
    mkdir ~/jdk
    cp ~/Downloads/jdk8u382-b05 ~/jdk
    ```
- 5. En Visual Studio Code, cree una nueva carpeta llamada `.vscode` y un archivo llamado `settings.json`.
+ 5. En Visual Studio Code, cree una nueva carpeta llamada `.vscode` en la raíz de la carpeta `robot-java/` y un archivo llamado `settings.json`. Siendo así -> `~/robot-java/.vscode/settings.json`
     
 -   Copie el siguiente archivo de configuración JSON en `settings.json`:
 ```json
